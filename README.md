@@ -26,11 +26,15 @@
 ## **Contributing**
 We welcome contributions from the community! If you'd like to improve this project, please follow these steps:
 
-Fork the repository
-Create a new branch for your changes
-Make your changes and commit them
-Push your changes to your forked repository
-Create a pull request with a detailed description of your changes
+1.Fork the repository
+
+2.Create a new branch for your changes
+
+3.Make your changes and commit them
+
+4.Push your changes to your forked repository
+
+5.Create a pull request with a detailed description of your changes
 
 Your contributions will help improve the application and its features.
 
